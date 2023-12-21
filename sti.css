@@ -1,0 +1,97 @@
+
+
+
+body {
+	
+	background-color: black;
+	font-family: 'Comic CAT', sans-serif;
+	font-size: 20px;
+	color:black;
+}
+html, body {
+	padding: 0;
+	margin: 0;
+	font-family: Comic CAT, light;
+	background-color: black;
+}
+
+header {
+	color: black;
+}
+
+
+.card {
+	border-width: 0px;
+	border-color:black;
+	
+}
+p {
+	padding-left:20px;
+	color: white;
+	letter-spacing: 1px;
+}
+
+section {
+	padding-bottom:100px;
+	padding-top:100px;
+}
+
+
+h2 {
+	text-align: center;
+	margin-top: 0px;
+	font-style: normal;
+	padding-bottom:10px;
+	padding-top:10px;
+	margin:0px;
+	font-family: Comic CAT;
+	margin-top: 0px;
+	padding-left:20px;
+	font-style: normal;
+	font-weight:"lighter";
+	font-size: 55px;
+}
+
+}
+.video {
+	padding-left:550px;
+	padding-right:550px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+}
+h2 {
+
+	margin-top: 0px;
+	font-style: normal;
+	padding-bottom:10px;
+	padding-top:10px;
+	margin:0px;
+	font-family: Comic CAT;
+	margin-top: 0px;
+	padding-left:20px;
+	font-style: normal;
+	font-weight:"lighter";
+	font-size: 25px;
+}
+
+
+
+#myBtn {
+  
+  border: none;
+  
+}
+button {
+	padding:0px;
+}
+
+
+
+
+
+
+
+
